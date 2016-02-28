@@ -1,4 +1,5 @@
 ## a pair of functions that cache the inverse of a matrix.
+## modified after commit 1. Push from command line.
 
 ## the makeCacheMatrix function returns a list of functions.
 
